@@ -1,0 +1,3 @@
+[submodule "themes/zen"]
+	path = themes/zen
+	url = https://github.com/casahacker/website-hugo-theme-zen.git

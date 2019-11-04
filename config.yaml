@@ -1,0 +1,65 @@
+title: "Casa Hacker hackerspace"
+baseURL: "/" # colocar dominio correto
+theme: "zen"
+languageCode: "pt-BR"
+defaultContentLanguage: "pt"
+languages:
+  pt:
+    weight: 1
+    languageName: "Portuguese"
+  en:
+    weight: 2
+    languageName: "English"
+pluralizelisttitles: false
+removePathAccents: true
+paginate: 10
+paginatePath: "page"
+rssLimit: 1000
+author:
+  name: "Your Name"
+  url: "https://example.org/somepage"
+  avatar: "path/to/some-image.jpg"
+
+outputs:
+  home: ["HTML","RSS", "JSON"]
+  section: ["HTML","RSS", "JSON"]
+
+params:
+  contact: "info@example.org"
+  copyright: "[Política de Privacidade](/transparencia/politica-de-privacidade/)  [Código de Conduta](/transparencia/codigo-de-conduta/) [Feedback](https://pt.surveymonkey.com/r/QN7DP36)"
+  description: "descricao"
+  dateformat: "2 January, 2006"
+  feedlinks: true
+  footer: "<!--Creative Commons License--> Conteudo licenciado sob  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt_BR)<!--/Creative Commons License-->  Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen)."
+  realfavicongenerator: true
+  logo: true
+  imageMaxWidth: 400
+  jquery: false
+  mobileMenu: true
+  poweredby: false
+  feedlinks: false   # deixar habilitado ou nao?
+  search: true
+  searchSize: 20
+  sidebar: true
+  submitted: true
+  mainSections: ""  # colocar eventos?
+  themeColor: "#00ff00"
+  podcast:
+    title: "casa hacker podcast - titulo"                 # * Feed title, defaults to site title (iTunes).
+    description: "descricao podcast"           # * Feed description/summary, defaults to  site description (iTunes).
+    image: ""                 # * Feed image, place inside assets directory (iTunes).
+    category:  
+      name:  "categoria"               # * Feed category (iTunes).
+      subcategories: []     # Feed sub category (iTunes).
+    explicit: false         # Feed explicit settting, default to false (iTunes).
+    author:                 # Feed author (iTunes).
+    owner:
+      name:                 # Feed owner name (iTunes).
+      email:                # Feed owner e-mail (iTunes).
+    lang:                   # Feed language, defaults to site language (iTunes).
+    block: no               # Block the feed from iTunes, default to no (iTunes).
+    complete: no/yes        # Set the feed as complete, defaults to no (iTunes).
+    type: episodic/serial   # Podcast type, defaults to episodic (iTunes).
+    newfeed:                # Are you moving? Set the new feed url here (iTunes).
+    cdn:                    # CDN url, no slash on end (https://cdn.example.org).
+    preload: none/metadata/auto # Set on the HTML5 audio tag, defaults to "metadata".

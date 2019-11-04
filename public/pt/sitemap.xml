@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/headless/escondido/</loc>
+    <lastmod>2019-10-19T20:49:14-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/headless/</loc>
+    <lastmod>2019-10-19T20:49:14-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-19T20:49:14-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/teste/</loc>
+    <lastmod>2019-10-19T20:49:14-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/podcast/</loc>
+    <lastmod>2019-10-15T19:21:46-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/podcasts/</loc>
+    <lastmod>2019-10-15T19:21:46-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/podcast/ep1/</loc>
+    <lastmod>2019-10-15T19:21:46-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fala-hackers/</loc>
+    <lastmod>2019-10-13T19:36:31-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fala-hackers/festival2019/</loc>
+    <lastmod>2019-10-13T19:36:31-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2019-10-13T19:36:31-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-13T19:30:16-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/transparencia/politica-de-privacidade/</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/transparencia/</loc>
+    <lastmod>2019-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/transparencia/codigo-de-conduta/</loc>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/categories/"
+                />
+  </url>
+  
+</urlset>

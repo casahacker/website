@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Headless em Casa Hacker hackerspace</title>
+    <link>/headless/</link>
+    <description>Conteúdo recente em Headless em Casa Hacker hackerspace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Sat, 19 Oct 2019 20:49:14 -0300</lastBuildDate>
+    <atom:link href="/headless/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Escondido</title>
+      <link>/headless/escondido/</link>
+      <pubDate>Sat, 19 Oct 2019 20:49:14 -0300</pubDate>
+      <guid>/headless/escondido/</guid>
+      <description>&lt;p&gt;Escondido!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
