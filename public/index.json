@@ -11,14 +11,6 @@
     },
     "items" : [
     {
-        "title" : "Escondido",
-        "date_published" : "2019-10-19T20:49:14-03:00",
-        "date_modified" : "2019-10-19T20:49:14-03:00",
-        "id" : "/headless/escondido/",
-        "url" : "/headless/escondido/",
-        "content_html" : "\u003cp\u003eEscondido!\u003c/p\u003e\n"
-    },
-    {
         "title" : "teste! #1: movimento maker",
         "date_published" : "2019-10-15T19:21:46-03:00",
         "date_modified" : "2019-10-15T19:21:46-03:00",
