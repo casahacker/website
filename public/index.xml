@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Content em Casa Hacker hackerspace</title>
-    <link>/</link>
-    <description>Conteúdo recente em Content em Casa Hacker hackerspace</description>
+    <title>Content em Casa Hacker</title>
+    <link>https://casahacker.duckdns.org/</link>
+    <description>Conteúdo recente em Content em Casa Hacker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 13 Oct 2019 19:30:16 -0300</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://casahacker.duckdns.org/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>teste! #1: movimento maker</title>
-      <link>/podcast/ep1/</link>
+      <link>https://casahacker.duckdns.org/podcast/ep1/</link>
       <pubDate>Tue, 15 Oct 2019 19:21:46 -0300</pubDate>
-      <guid>/podcast/ep1/</guid>
+      <guid>https://casahacker.duckdns.org/podcast/ep1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;TESTE! so copiei do Nahurodo :P&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Cultura do “faça você mesmo”, popularização da tecnologia, microcontroladores Arduíno, impressão 3D, makerspaces, fab labs… São expressões do universo Maker, que promete ser a próxima revolução industrial.&lt;/p&gt;
@@ -26,18 +26,18 @@
     
     <item>
       <title>FESTIVAL 2019 cultura, comunidade e tecnologia.</title>
-      <link>/fala-hackers/festival2019/</link>
+      <link>https://casahacker.duckdns.org/fala-hackers/festival2019/</link>
       <pubDate>Sun, 13 Oct 2019 19:36:31 -0300</pubDate>
-      <guid>/fala-hackers/festival2019/</guid>
+      <guid>https://casahacker.duckdns.org/fala-hackers/festival2019/</guid>
       <description>&lt;p&gt;Junte-se a nós para comemorar o primeiro ano da Casa Hacker, a construção da nossa Hackstation, as pessoas que estão construindo o movimento hacker e apreciar a cultura local com música. O festival é para educadores, ativistas, tecnólogos, pesquisadores, artistas e a comunidade dedicada a moldar o futuro da tecnologia da informação e comunicação para o bem público.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sobre</title>
-      <link>/about/</link>
+      <link>https://casahacker.duckdns.org/about/</link>
       <pubDate>Sun, 13 Oct 2019 19:36:31 -0300</pubDate>
-      <guid>/about/</guid>
+      <guid>https://casahacker.duckdns.org/about/</guid>
       <description>
 
 &lt;h2 id=&#34;como-chegar&#34;&gt;Como chegar?&lt;/h2&gt;
@@ -48,23 +48,14 @@
 
 &lt;p&gt;colocar!&lt;/p&gt;
 
-&lt;h2 id=&#34;codigo-de-conduta&#34;&gt;Codigo de conduta:&lt;/h2&gt;
-
-&lt;p&gt;colocar aqui ou no headless?&lt;/p&gt;
-
-&lt;h2 id=&#34;plano-estrategico&#34;&gt;plano estrategico:&lt;/h2&gt;
-
-&lt;p&gt;colocar no blog!&lt;/p&gt;
-
 &lt;h2 id=&#34;sobre-nosso-site&#34;&gt;Sobre nosso site:&lt;/h2&gt;
 
-&lt;p&gt;Nosso site respeita a privacidade dos visitantes (leia mais na politica de privacidade abaixo) e é feito utilizando tecnologias livres: utilizamos o &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt; como gerador de sites estaticos, nosso tema é baseado no &lt;a href=&#34;https://github.com/frjo/hugo-theme-zen&#34;&gt;zen&lt;/a&gt; e o &lt;a href=&#34;https://matomo.org/&#34;&gt;matomo&lt;/a&gt; como analitics.&lt;/p&gt;
+&lt;p&gt;Nosso site respeita a privacidade dos visitantes (leia mais na politica de privacidade) e é feito utilizando tecnologias livres: utilizamos o &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt; como gerador de sites estaticos, nosso tema é baseado no &lt;a href=&#34;https://github.com/frjo/hugo-theme-zen&#34;&gt;zen&lt;/a&gt; e o &lt;a href=&#34;https://matomo.org/&#34;&gt;matomo&lt;/a&gt; como analitics.&lt;/p&gt;
 
-&lt;p&gt;Quer criar um site baseado no nosso? Acesse o repositorio do site: &lt;a href=&#34;http://gitlab.com&#34;&gt;link-gitlab&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Você pode optar por não ser monitorado pela nossa instancia do matomo: Basta habilitar o sinal de &amp;ldquo;Não rastreado&amp;rdquo; em seu navegador. Ou clickar no botão abaixo:&lt;/p&gt;
 
-&lt;h3 id=&#34;politica-de-privacidade&#34;&gt;Politica de privacidade&lt;/h3&gt;
-
-&lt;p&gt;copiar privacytools, falar matomo etc &amp;hellip;&lt;/p&gt;
+&lt;iframe style=&#34;border: 0; height: 200px; width: 600px;&#34;
+src=&#34;https://stats.casahacker.duckdns.org/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=en&#34;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&#34;acesse-via-serviço-cebola-onion&#34;&gt;Acesse via serviço cebola (.onion)&lt;/h3&gt;
 
@@ -73,16 +64,16 @@
 &lt;p&gt;Com o Tor Browser aberto, acesse nosso site com o link abaixo:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://linkenorme.onion&#34;&gt;linkenorme.onion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://casahackrd5564weeiw7biseh6oms5jatpfa5klfoobeworbksx4z2qd.onion&#34;&gt;casahackrd5564weeiw7biseh6oms5jatpfa5klfoobeworbksx4z2qd.onion&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
     
     <item>
       <title>Política De Privacidade</title>
-      <link>/transparencia/politica-de-privacidade/</link>
+      <link>https://casahacker.duckdns.org/transparencia/politica-de-privacidade/</link>
       <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/transparencia/politica-de-privacidade/</guid>
+      <guid>https://casahacker.duckdns.org/transparencia/politica-de-privacidade/</guid>
       <description>
 
 &lt;p&gt;Sua privacidade é um fator importante que a &lt;strong&gt;Casa Hacker&lt;/strong&gt; (ou seja, nós) considera no desenvolvimento de cada uma de nossas iniciativas. Temos um compromisso com a transparência e a abertura. Esta &lt;strong&gt;Política de Privacidade da Casa Hacker&lt;/strong&gt; explica, em linhas gerais, como obtemos informações sobre você e o que fazemos com elas.&lt;/p&gt;
@@ -187,9 +178,9 @@ falae@casahacker.org&lt;br /&gt;
     
     <item>
       <title>Código De Conduta</title>
-      <link>/transparencia/codigo-de-conduta/</link>
+      <link>https://casahacker.duckdns.org/transparencia/codigo-de-conduta/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/transparencia/codigo-de-conduta/</guid>
+      <guid>https://casahacker.duckdns.org/transparencia/codigo-de-conduta/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;As pessoas são a essência da Casa Hacker&lt;/strong&gt;. Colocamos as pessoas em primeiro lugar e fazemos o nosso melhor para reconhecer, valorizar e respeitar a diversidade dos nossos contribuidores. O projeto cultural Casa Hacker recebe contribuições de todos que compartilham nossos objetivos e querem colaborar de maneira saudável e construtiva dentro da nossa comunidade. &lt;strong&gt;Sendo assim, adotamos este código de conduta e exigimos a todos que participam a concordar e aderir a estas diretrizes para participação na comunidade a fim de nos ajudar a criar uma experiência segura e positiva para todos da comunidade.&lt;/strong&gt;&lt;/p&gt;

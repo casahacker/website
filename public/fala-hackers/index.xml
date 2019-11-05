@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fala hackers! em Casa Hacker hackerspace</title>
-    <link>/fala-hackers/</link>
-    <description>Conteúdo recente em Fala hackers! em Casa Hacker hackerspace</description>
+    <title>Fala hackers! em Casa Hacker</title>
+    <link>https://casahacker.duckdns.org/fala-hackers/</link>
+    <description>Conteúdo recente em Fala hackers! em Casa Hacker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Sun, 13 Oct 2019 19:36:31 -0300</lastBuildDate>
-    <atom:link href="/fala-hackers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://casahacker.duckdns.org/fala-hackers/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>FESTIVAL 2019 cultura, comunidade e tecnologia.</title>
-      <link>/fala-hackers/festival2019/</link>
+      <link>https://casahacker.duckdns.org/fala-hackers/festival2019/</link>
       <pubDate>Sun, 13 Oct 2019 19:36:31 -0300</pubDate>
-      <guid>/fala-hackers/festival2019/</guid>
+      <guid>https://casahacker.duckdns.org/fala-hackers/festival2019/</guid>
       <description>&lt;p&gt;Junte-se a nós para comemorar o primeiro ano da Casa Hacker, a construção da nossa Hackstation, as pessoas que estão construindo o movimento hacker e apreciar a cultura local com música. O festival é para educadores, ativistas, tecnólogos, pesquisadores, artistas e a comunidade dedicada a moldar o futuro da tecnologia da informação e comunicação para o bem público.&lt;/p&gt;
 </description>
     </item>

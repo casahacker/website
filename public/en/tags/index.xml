@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Casa Hacker hackerspace</title>
-    <link>/en/tags/</link>
-    <description>Recent content in Tags on Casa Hacker hackerspace</description>
+    <title>Tags on Casa Hacker</title>
+    <link>https://casahacker.duckdns.org/en/tags/</link>
+    <description>Recent content in Tags on Casa Hacker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://casahacker.duckdns.org/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

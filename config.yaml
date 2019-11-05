@@ -1,5 +1,5 @@
-title: "Casa Hacker hackerspace"
-baseURL: "/" # colocar dominio correto
+title: "Casa Hacker"
+baseURL: "https://casahacker.duckdns.org/" # colocar dominio correto
 theme: "zen"
 languageCode: "pt-BR"
 defaultContentLanguage: "pt"
@@ -12,6 +12,7 @@ languages:
     languageName: "English"
 pluralizelisttitles: false
 removePathAccents: true
+description: "A Casa Hacker é um espaço hacker dedicado a colocar você no controle de sua experiência digital e a moldar o futuro da tecnologia da informação e comunicação para o bem público"
 paginate: 10
 paginatePath: "page"
 rssLimit: 1000
@@ -29,7 +30,7 @@ params:
   piwikTrackerUrl: "stats.casahacker.duckdns.org"
   contact: "info@example.org"
   copyright: "[Política de Privacidade](/transparencia/politica-de-privacidade/)  [Código de Conduta](/transparencia/codigo-de-conduta/) [Feedback](https://pt.surveymonkey.com/r/QN7DP36)"
-  description: "descricao"
+  description: "A Casa Hacker é um espaço hacker dedicado a colocar você no controle de sua experiência digital e a moldar o futuro da tecnologia da informação e comunicação para o bem público"
   dateformat: "2 January, 2006"
   feedlinks: true
   footer: "<!--Creative Commons License--> Conteudo licenciado sob  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt_BR)<!--/Creative Commons License-->  Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen)."

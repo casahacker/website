@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Transparência em Casa Hacker hackerspace</title>
-    <link>/transparencia/</link>
-    <description>Conteúdo recente em Transparência em Casa Hacker hackerspace</description>
+    <title>Transparência em Casa Hacker</title>
+    <link>https://casahacker.duckdns.org/transparencia/</link>
+    <description>Conteúdo recente em Transparência em Casa Hacker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Fri, 26 Apr 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/transparencia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://casahacker.duckdns.org/transparencia/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Política De Privacidade</title>
-      <link>/transparencia/politica-de-privacidade/</link>
+      <link>https://casahacker.duckdns.org/transparencia/politica-de-privacidade/</link>
       <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/transparencia/politica-de-privacidade/</guid>
+      <guid>https://casahacker.duckdns.org/transparencia/politica-de-privacidade/</guid>
       <description>
 
 &lt;p&gt;Sua privacidade é um fator importante que a &lt;strong&gt;Casa Hacker&lt;/strong&gt; (ou seja, nós) considera no desenvolvimento de cada uma de nossas iniciativas. Temos um compromisso com a transparência e a abertura. Esta &lt;strong&gt;Política de Privacidade da Casa Hacker&lt;/strong&gt; explica, em linhas gerais, como obtemos informações sobre você e o que fazemos com elas.&lt;/p&gt;
@@ -118,9 +118,9 @@ falae@casahacker.org&lt;br /&gt;
     
     <item>
       <title>Código De Conduta</title>
-      <link>/transparencia/codigo-de-conduta/</link>
+      <link>https://casahacker.duckdns.org/transparencia/codigo-de-conduta/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/transparencia/codigo-de-conduta/</guid>
+      <guid>https://casahacker.duckdns.org/transparencia/codigo-de-conduta/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;As pessoas são a essência da Casa Hacker&lt;/strong&gt;. Colocamos as pessoas em primeiro lugar e fazemos o nosso melhor para reconhecer, valorizar e respeitar a diversidade dos nossos contribuidores. O projeto cultural Casa Hacker recebe contribuições de todos que compartilham nossos objetivos e querem colaborar de maneira saudável e construtiva dentro da nossa comunidade. &lt;strong&gt;Sendo assim, adotamos este código de conduta e exigimos a todos que participam a concordar e aderir a estas diretrizes para participação na comunidade a fim de nos ajudar a criar uma experiência segura e positiva para todos da comunidade.&lt;/strong&gt;&lt;/p&gt;

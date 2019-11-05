@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags em Casa Hacker hackerspace</title>
-    <link>/tags/</link>
-    <description>Conteúdo recente em Tags em Casa Hacker hackerspace</description>
+    <title>Tags em Casa Hacker</title>
+    <link>https://casahacker.duckdns.org/tags/</link>
+    <description>Conteúdo recente em Tags em Casa Hacker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Tue, 15 Oct 2019 19:21:46 -0300</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://casahacker.duckdns.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>podcasts</title>
-      <link>/tags/podcasts/</link>
+      <link>https://casahacker.duckdns.org/tags/podcasts/</link>
       <pubDate>Tue, 15 Oct 2019 19:21:46 -0300</pubDate>
-      <guid>/tags/podcasts/</guid>
+      <guid>https://casahacker.duckdns.org/tags/podcasts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>teste</title>
-      <link>/tags/teste/</link>
+      <link>https://casahacker.duckdns.org/tags/teste/</link>
       <pubDate>Tue, 15 Oct 2019 19:21:46 -0300</pubDate>
-      <guid>/tags/teste/</guid>
+      <guid>https://casahacker.duckdns.org/tags/teste/</guid>
       <description></description>
     </item>
     

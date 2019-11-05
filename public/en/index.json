@@ -1,22 +1,22 @@
 {
     "version" : "https://jsonfeed.org/version/1",
-    "title" : "Content on Casa Hacker hackerspace",
-    "description": "Recent content in Content on Casa Hacker hackerspace",
-    "home_page_url" : "/",
-    "feed_url" : "/en/index.json",
+    "title" : "Content on Casa Hacker",
+    "description": "Recent content in Content on Casa Hacker",
+    "home_page_url" : "https://casahacker.duckdns.org/",
+    "feed_url" : "https://casahacker.duckdns.org/en/index.json",
     "author" : {
         "name" : "Your Name",
         "url": "https://example.org/somepage",
-        "avatar": "/path/to/some-image.jpg"
+        "avatar": "https://casahacker.duckdns.org/path/to/some-image.jpg"
     },
     "items" : [
     {
         "title" : "About",
         "date_published" : "2019-10-13T19:36:31-03:00",
         "date_modified" : "2019-10-13T19:36:31-03:00",
-        "id" : "/en/about/",
-        "url" : "/en/about/",
-        "content_html" : "\n\n\u003ch2 id=\"about-your-homepage\"\u003eAbout your homepage:\u003c/h2\u003e\n\n\u003ch3 id=\"browse-via-tor-onion-service\"\u003eBrowse via Tor onion service\u003c/h3\u003e\n\n\u003cblockquote\u003e\n\u003cp\u003e\u003ca href=\"http://linkenorme.onion\"\u003elinkenorme.onion\u003c/a\u003e\u003c/p\u003e\n\u003c/blockquote\u003e\n"
+        "id" : "https://casahacker.duckdns.org/en/about/",
+        "url" : "https://casahacker.duckdns.org/en/about/",
+        "content_html" : "\n\n\u003ch2 id=\"about-your-homepage\"\u003eAbout your homepage:\u003c/h2\u003e\n\n\u003ch3 id=\"browse-via-tor-onion-service\"\u003eBrowse via Tor onion service\u003c/h3\u003e\n\n\u003cblockquote\u003e\n\u003cp\u003e\u003ca href=\"http://casahackrd5564weeiw7biseh6oms5jatpfa5klfoobeworbksx4z2qd.onion\"\u003ecasahackrd5564weeiw7biseh6oms5jatpfa5klfoobeworbksx4z2qd.onion\u003c/a\u003e\u003c/p\u003e\n\u003c/blockquote\u003e\n"
     }
     ]
 }

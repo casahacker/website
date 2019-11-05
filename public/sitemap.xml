@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>/pt/sitemap.xml</loc>
+	   	<loc>https://casahacker.duckdns.org/pt/sitemap.xml</loc>
 		
 	   	<lastmod>2019-10-15T19:21:46-03:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>/en/sitemap.xml</loc>
+	   	<loc>https://casahacker.duckdns.org/en/sitemap.xml</loc>
 		
 	   	<lastmod>2019-10-13T19:36:31-03:00</lastmod>
 		

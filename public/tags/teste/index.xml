@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>teste em Casa Hacker hackerspace</title>
-    <link>/tags/teste/</link>
-    <description>Conteúdo recente em teste em Casa Hacker hackerspace</description>
+    <title>teste em Casa Hacker</title>
+    <link>https://casahacker.duckdns.org/tags/teste/</link>
+    <description>Conteúdo recente em teste em Casa Hacker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Tue, 15 Oct 2019 19:21:46 -0300</lastBuildDate>
-    <atom:link href="/tags/teste/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://casahacker.duckdns.org/tags/teste/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>teste! #1: movimento maker</title>
-      <link>/podcast/ep1/</link>
+      <link>https://casahacker.duckdns.org/podcast/ep1/</link>
       <pubDate>Tue, 15 Oct 2019 19:21:46 -0300</pubDate>
-      <guid>/podcast/ep1/</guid>
+      <guid>https://casahacker.duckdns.org/podcast/ep1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;TESTE! so copiei do Nahurodo :P&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Cultura do “faça você mesmo”, popularização da tecnologia, microcontroladores Arduíno, impressão 3D, makerspaces, fab labs… São expressões do universo Maker, que promete ser a próxima revolução industrial.&lt;/p&gt;

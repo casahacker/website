@@ -1,21 +1,21 @@
 {
     "version" : "https://jsonfeed.org/version/1",
-    "title" : "Fala hackers! em Casa Hacker hackerspace",
-    "description": "Conteúdo recente em Fala hackers! em Casa Hacker hackerspace",
-    "home_page_url" : "/",
-    "feed_url" : "/fala-hackers/index.json",
+    "title" : "Fala hackers! em Casa Hacker",
+    "description": "Conteúdo recente em Fala hackers! em Casa Hacker",
+    "home_page_url" : "https://casahacker.duckdns.org/",
+    "feed_url" : "https://casahacker.duckdns.org/fala-hackers/index.json",
     "author" : {
         "name" : "Your Name",
         "url": "https://example.org/somepage",
-        "avatar": "/path/to/some-image.jpg"
+        "avatar": "https://casahacker.duckdns.org/path/to/some-image.jpg"
     },
     "items" : [
     {
         "title" : "FESTIVAL 2019 cultura, comunidade e tecnologia.",
         "date_published" : "2019-10-13T19:36:31-03:00",
         "date_modified" : "2019-10-13T19:36:31-03:00",
-        "id" : "/fala-hackers/festival2019/",
-        "url" : "/fala-hackers/festival2019/",
+        "id" : "https://casahacker.duckdns.org/fala-hackers/festival2019/",
+        "url" : "https://casahacker.duckdns.org/fala-hackers/festival2019/",
         "content_html" : "\u003cp\u003eJunte-se a nós para comemorar o primeiro ano da Casa Hacker, a construção da nossa Hackstation, as pessoas que estão construindo o movimento hacker e apreciar a cultura local com música. O festival é para educadores, ativistas, tecnólogos, pesquisadores, artistas e a comunidade dedicada a moldar o futuro da tecnologia da informação e comunicação para o bem público.\u003c/p\u003e\n"
     }
     ]

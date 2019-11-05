@@ -1,108 +1,108 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/podcast/</loc>
+    <loc>https://casahacker.duckdns.org/podcast/</loc>
     <lastmod>2019-10-15T19:21:46-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/podcasts/</loc>
+    <loc>https://casahacker.duckdns.org/tags/podcasts/</loc>
     <lastmod>2019-10-15T19:21:46-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://casahacker.duckdns.org/tags/</loc>
     <lastmod>2019-10-15T19:21:46-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://casahacker.duckdns.org/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/tags/"
+                href="https://casahacker.duckdns.org/tags/"
                 />
   </url>
   
   <url>
-    <loc>/tags/teste/</loc>
+    <loc>https://casahacker.duckdns.org/tags/teste/</loc>
     <lastmod>2019-10-15T19:21:46-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/podcast/ep1/</loc>
+    <loc>https://casahacker.duckdns.org/podcast/ep1/</loc>
     <lastmod>2019-10-15T19:21:46-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/fala-hackers/</loc>
+    <loc>https://casahacker.duckdns.org/fala-hackers/</loc>
     <lastmod>2019-10-13T19:36:31-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/fala-hackers/festival2019/</loc>
+    <loc>https://casahacker.duckdns.org/fala-hackers/festival2019/</loc>
     <lastmod>2019-10-13T19:36:31-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://casahacker.duckdns.org/about/</loc>
     <lastmod>2019-10-13T19:36:31-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="https://casahacker.duckdns.org/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/about/"
+                href="https://casahacker.duckdns.org/about/"
                 />
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://casahacker.duckdns.org/</loc>
     <lastmod>2019-10-13T19:30:16-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://casahacker.duckdns.org/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/"
+                href="https://casahacker.duckdns.org/"
                 />
   </url>
   
   <url>
-    <loc>/transparencia/politica-de-privacidade/</loc>
+    <loc>https://casahacker.duckdns.org/transparencia/politica-de-privacidade/</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/transparencia/</loc>
+    <loc>https://casahacker.duckdns.org/transparencia/</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/transparencia/codigo-de-conduta/</loc>
+    <loc>https://casahacker.duckdns.org/transparencia/codigo-de-conduta/</loc>
     <lastmod>2019-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://casahacker.duckdns.org/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://casahacker.duckdns.org/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/categories/"
+                href="https://casahacker.duckdns.org/categories/"
                 />
   </url>
   

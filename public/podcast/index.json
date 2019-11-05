@@ -1,21 +1,21 @@
 {
     "version" : "https://jsonfeed.org/version/1",
-    "title" : "Podcast em Casa Hacker hackerspace",
-    "description": "Conteúdo recente em Podcast em Casa Hacker hackerspace",
-    "home_page_url" : "/",
-    "feed_url" : "/podcast/index.json",
+    "title" : "Podcast em Casa Hacker",
+    "description": "Conteúdo recente em Podcast em Casa Hacker",
+    "home_page_url" : "https://casahacker.duckdns.org/",
+    "feed_url" : "https://casahacker.duckdns.org/podcast/index.json",
     "author" : {
         "name" : "Your Name",
         "url": "https://example.org/somepage",
-        "avatar": "/path/to/some-image.jpg"
+        "avatar": "https://casahacker.duckdns.org/path/to/some-image.jpg"
     },
     "items" : [
     {
         "title" : "teste! #1: movimento maker",
         "date_published" : "2019-10-15T19:21:46-03:00",
         "date_modified" : "2019-10-15T19:21:46-03:00",
-        "id" : "/podcast/ep1/",
-        "url" : "/podcast/ep1/",
+        "id" : "https://casahacker.duckdns.org/podcast/ep1/",
+        "url" : "https://casahacker.duckdns.org/podcast/ep1/",
         "content_html" : "\u003cp\u003e\u003cstrong\u003eTESTE! so copiei do Nahurodo :P\u003c/strong\u003e\u003c/p\u003e\n\n\u003cp\u003eCultura do “faça você mesmo”, popularização da tecnologia, microcontroladores Arduíno, impressão 3D, makerspaces, fab labs… São expressões do universo Maker, que promete ser a próxima revolução industrial.\u003c/p\u003e\n\n\u003cp\u003eConheça neste episódio do Naruhodo! a importância deste movimento e o impacto que ele pretende ter na sociedade contemporânea.\u003c/p\u003e\n\n\u003cp\u003eNeste papo, Ken Fujioka, o leigo curioso, e Altay de Souza, o cientista PhD, têm a ajuda do Ricardo Cavallini, fundador do Makers Brasil e criador do RUTE, o kit educacional eletrônico mais acessível do mundo.\u003c/p\u003e\n"
     }
     ]
