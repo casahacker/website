@@ -55,7 +55,7 @@
 &lt;p&gt;Você pode optar por não ser monitorado pela nossa instancia do matomo: Basta habilitar o sinal de &amp;ldquo;Não rastreado&amp;rdquo; em seu navegador. Ou clickar no botão abaixo:&lt;/p&gt;
 
 &lt;iframe style=&#34;border: 0; height: 200px; width: 600px;&#34;
-src=&#34;https://stats.casahacker.duckdns.org/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=en&#34;&gt;&lt;/iframe&gt;
+src=&#34;https://stats.casahacker.duckdns.org/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=pt-br&#34;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&#34;acesse-via-serviço-cebola-onion&#34;&gt;Acesse via serviço cebola (.onion)&lt;/h3&gt;
 

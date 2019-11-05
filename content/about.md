@@ -21,7 +21,7 @@ Nosso site respeita a privacidade dos visitantes (leia mais na politica de priva
 Você pode optar por não ser monitorado pela nossa instancia do matomo: Basta habilitar o sinal de "Não rastreado" em seu navegador. Ou clickar no botão abaixo:
 
 <iframe style="border: 0; height: 200px; width: 600px;"
-src="https://stats.casahacker.duckdns.org/index.php?module=CoreAdminHome&action=optOut&language=en"></iframe>
+src="https://stats.casahacker.duckdns.org/index.php?module=CoreAdminHome&action=optOut&language=pt-br"></iframe>
 
 ### Acesse via serviço cebola (.onion)
 
