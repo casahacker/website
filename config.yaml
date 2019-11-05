@@ -25,6 +25,8 @@ outputs:
   section: ["HTML","RSS", "JSON"]
 
 params:
+  piwikSiteId: 1
+  piwikTrackerUrl: "stats.casahacker.duckdns.org"
   contact: "info@example.org"
   copyright: "[Política de Privacidade](/transparencia/politica-de-privacidade/)  [Código de Conduta](/transparencia/codigo-de-conduta/) [Feedback](https://pt.surveymonkey.com/r/QN7DP36)"
   description: "descricao"
