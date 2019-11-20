@@ -1,6 +1,7 @@
 ---
 title: "Content"
 date: 2019-10-13T19:30:16-03:00
+description: "A Casa Hacker é um espaço hacker dedicado a colocar você no controle de sua experiência digital e a moldar o futuro da tecnologia da informação e comunicação para o bem público"
 draft: false
 ---
 

@@ -41,9 +41,9 @@ params:
   mobileMenu: true
   poweredby: false
   feedlinks: false   # deixar habilitado ou nao?
-  search: true
+  search: false
   searchSize: 20
-  sidebar: true
+  sidebar: false
   submitted: true
   mainSections: ""  # colocar eventos?
   themeColor: "#00ff00"
