@@ -12,18 +12,37 @@ A Casa Hacker é um espaço hacker sem fins lucrativos e 100% dedicada a colocar
 
 Somos de base comunitária e de raízes periféricas, apaixonados por tecnologia, ciência, sociedade e cultura, e acreditamos que na medida que a tecnologia em que é usada para promover a aprendizagem e justiça, ela também é usada de maneiras que amplificam as desigualdades. Muitas pessoas, especialmente aquelas que historicamente foram excluídas ou marginalizadas, não podem acessar, construir, beneficiar ou influenciar plataformas digitais.
 
-## Apoiadores, amigos e parceiros:
+## Apoiadores, amigos e parceiros
 
-[<img src="prefeituraCPS.png" width="200">](http://www.campinas.sp.gov.br/governo/cultura/) [<img src="institutoVozAtiva.png" width="100">](https://www.facebook.com/institutovozativa/) [<img src="fundacaoFEAC.png" width="100">](https://www.feac.org.br/) [<img src="99Designs.png" width="100">](https://en.99designs.com.br/) [<img src="Stickermule.png" width="100">](https://www.stickermule.com/) [<img src="InstitutoProBono.png" width="150">](https://probono.org.br/) [<img src="klaAdvogados.png" width="100">](http://www.klalaw.com.br/) [<img src="TacticalTech.png" width="100">](https://tacticaltech.org/) [<img src="BigFieldCompany.png" width="100">](https://www.youtube.com/channel/UCtaHspH0UhD-0Ro3egFyhbQ) [<img src="fundacaoTelefonica.png" width="150">](http://fundacaotelefonica.org.br/) [<img src="AliançaEmpreendedora.png" width="150">](https://aliancaempreendedora.org.br/) [<img src="Mozilla.jpeg" width="150">](https://www.mozilla.org) [<img src="venus360.png" width="150">](http://venus360.com.br/) [<img src="minhaCampinas.jpeg" width="150">](https://www.minhacampinas.org.br/)  
+[![Prefeitura](images/prefeituraCPS.png#friends)](http://www.campinas.sp.gov.br/governo/cultura/)
+[![Instituto Voz Ativa](images/institutoVozAtiva.png#friends)](https://www.facebook.com/institutovozativa/)
+[![Fundação FEAC](images/fundacaoFEAC.png#friends)](https://www.feac.org.br/)
+[![99Designs](images/99Designs.png#friends)](https://en.99designs.com.br/)
+[![Stickermule](images/Stickermule.png#friends)](https://www.stickermule.com/)
+[![Stickermule](images/Stickermule.png#friends)](https://probono.org.br/)
+[![Stickermule](images/Stickermule.png#friends)](http://www.klalaw.com.br/)
+[![TacticalTech](images/TacticalTech.png#friends)](https://tacticaltech.org/)
+[![BFCompany](images/BigFieldCompany.png#friends)](https://www.youtube.com/channel/UCtaHspH0UhD-0Ro3egFyhbQ)
+[![Fundação Telefônica](images/fundacaoTelefonica.png#friends)](http://fundacaotelefonica.org.br/)
+[![Aliança Empreendedora](images/AliançaEmpreendedora.png#friends)](https://aliancaempreendedora.org.br/)
+[![Mozilla](images/Mozilla.jpeg#friends)](https://www.mozilla.org)
+[![Venus360](images/venus360.png#friends)](http://venus360.com.br/)
+[![Minha Campinas](images/minhaCampinas.jpeg#friends)](https://www.minhacampinas.org.br/)
 
-## Localizacao:
+## Localização
 
-> Rua Benjamin Moloisi, 669 - Conj. Hab. Parque Itajai, Campinas - SP, 13058-020
+Rua Benjamin Moloisi, 669 - Conj. Hab. Parque Itajai, Campinas - SP, 13058-020
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-47.193448841571815%2C-22.959894915812015%2C-47.19139426946641%2C-22.95839084833951&amp;layer=mapnik&amp;marker=-22.959142884166557%2C-47.192421555519104" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=-22.95914&amp;mlon=-47.19242#map=19/-22.95914/-47.19242" target="_blank">Clique para abrir em outra aba</a></small>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-47.193448841571815%2C-22.959894915812015%2C-47.19139426946641%2C-22.95839084833951&amp;layer=mapnik&amp;marker=-22.959142884166557%2C-47.192421555519104" style="border: 1px solid black"></iframe><br/>
+<small>
+    <a href="https://www.openstreetmap.org/?mlat=-22.95914&amp;mlon=-47.19242#map=19/-22.95914/-47.19242" target="_blank">Clique para abrir em outra aba</a>
+</small>
 
 [Como chegar](/about/#como-chegar)
 
-## Redes sociais:
+## Redes sociais
 
-[<img src="mastodon.svg" width="25">](https://masto.donte.com.br/@casahacker) [<img src="twitter.svg" width="25">](https://twitter.com/casahacker) [<img src="instagram.svg" width="25">](https://www.instagram.com/casahacker/) [<img src="facebook.svg" width="25">](https://www.facebook.com/casahackercampinas)
+[![Mastodon](images/mastodon.svg#social-media)](https://masto.donte.com.br/@casahacker)
+[![Twitter](images/twitter.svg#social-media)](https://twitter.com/casahacker)
+[![Instagram](images/instagram.svg#social-media)](https://www.instagram.com/casahacker/)
+[![Facebook](images/facebook.svg#social-media)](https://www.facebook.com/casahackercampinas)
