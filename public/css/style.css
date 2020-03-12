@@ -1,0 +1,148 @@
+html, body {
+	font-family: 'Rubik', sans-serif;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+/* Header */
+.layout__header {
+	position: absolute;
+	min-height: 110px;
+	padding: 0 20px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.layout__header h1 a {
+	text-decoration: none;
+	color: #000;
+}
+
+.layout__header h2 {
+	display: none;
+}
+
+.layout__header ul {
+	list-style: none;
+}
+
+.layout__header .header__region a {
+	text-decoration: none;
+	color: #000;
+	font-size: 14px;
+	transition: .5s;
+}
+
+.layout__header .header__region a:hover {
+	cursor: pointer;
+	color: rgba(0, 0, 0, .4);
+}
+/* // Header */
+
+/* Menu */
+.main-menu {
+	width: 100%;
+	min-height: 110px;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	box-shadow: 0 4px 4px -1px rgba(0, 0, 0, .4);
+}
+
+.main-menu h2 {
+	display: none;
+}
+
+.main-menu ul {
+	list-style: none;
+}
+
+.main-menu ul li {
+	display: inline;
+	margin: 0 10px;
+}
+
+.main-menu ul li a {
+	text-decoration: none;
+	color: #000;
+	margin: 0 8px;
+	font-size: 20px;
+	transition: .5s;
+}
+
+.main-menu ul li a:hover {
+	cursor: pointer;
+	color: rgba(0, 0, 0, .4);
+}
+/* //Menu */
+
+/* Main */
+
+/* //Main */
+
+/* Footer */
+.footer {
+	width: 100%;
+	min-height: 80px;
+	margin-top: 20px;
+	align-self: flex-end;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-shadow: 0 -4px 4px -1px rgba(0, 0, 0, .4);
+}
+
+.footer p {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.footer a {
+	text-decoration: none;
+	color: #000;
+	margin: 0 20px;
+	transition: .5s;
+}
+
+.footer a:hover {
+	color: rgba(0, 0, 0, .4);
+}
+/* //Footer */
+
+/* Responsive code */
+@media screen and (max-width: 990px) {
+	.layout__header {
+		position: relative;
+		min-height: 80px;
+		margin-top: 10px;
+	}
+	.main-menu {
+		justify-content: center;
+		min-height: 50px;
+	}
+}
+
+@media screen and (max-width: 665px) {
+	.main-menu {
+		display: none;
+	}
+	.layout__header {
+		box-shadow: 0 4px 4px -1px rgba(0, 0, 0, .4);
+	}
+}
+
+@media screen and (max-width: 510px) {
+	.footer p {
+		flex-direction: column;
+	}
+	.footer a {
+		margin: 10px 0;
+	}
+}
+/* //Responsive code */

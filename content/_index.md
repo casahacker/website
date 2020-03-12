@@ -14,26 +14,27 @@ Somos de base comunitária e de raízes periféricas, apaixonados por tecnologia
 
 ## Apoiadores, amigos e parceiros
 
-[![Prefeitura](images/prefeituraCPS.png#friends)](http://www.campinas.sp.gov.br/governo/cultura/)
-[![Instituto Voz Ativa](images/institutoVozAtiva.png#friends)](https://www.facebook.com/institutovozativa/)
-[![Fundação FEAC](images/fundacaoFEAC.png#friends)](https://www.feac.org.br/)
-[![99Designs](images/99Designs.png#friends)](https://en.99designs.com.br/)
-[![Stickermule](images/Stickermule.png#friends)](https://www.stickermule.com/)
-[![Stickermule](images/Stickermule.png#friends)](https://probono.org.br/)
-[![Stickermule](images/Stickermule.png#friends)](http://www.klalaw.com.br/)
-[![TacticalTech](images/TacticalTech.png#friends)](https://tacticaltech.org/)
-[![BFCompany](images/BigFieldCompany.png#friends)](https://www.youtube.com/channel/UCtaHspH0UhD-0Ro3egFyhbQ)
-[![Fundação Telefônica](images/fundacaoTelefonica.png#friends)](http://fundacaotelefonica.org.br/)
-[![Aliança Empreendedora](images/AliançaEmpreendedora.png#friends)](https://aliancaempreendedora.org.br/)
-[![Mozilla](images/Mozilla.jpeg#friends)](https://www.mozilla.org)
-[![Venus360](images/venus360.png#friends)](http://venus360.com.br/)
-[![Minha Campinas](images/minhaCampinas.jpeg#friends)](https://www.minhacampinas.org.br/)
+[<img class="partners-logos" src="images/prefeituraCPS.png"/>](http://www.campinas.sp.gov.br/governo/cultura/)
+[<img class="partners-logos" src="images/institutoVozAtiva.png"/>](https://www.facebook.com/institutovozativa/)
+[<img class="partners-logos" src="images/fundacaoFEAC.png"/>](https://www.feac.org.br/)
+[<img class="partners-logos" src="images/99Designs.png"/>](https://en.99designs.com.br/)
+[<img class="partners-logos" src="images/Stickermule.png"/>](https://www.stickermule.com/)
+[<img class="partners-logos" src="images/Stickermule.png"/>](https://probono.org.br/)
+[<img class="partners-logos" src="images/Stickermule.png"/>](http://www.klalaw.com.br/)
+[<img class="partners-logos" src="images/TacticalTech.png"/>](https://tacticaltech.org/)
+[<img class="partners-logos" src="images/BigFieldCompany.png"/>](https://www.youtube.com/channel/UCtaHspH0UhD-0Ro3egFyhbQ)
+[<img class="partners-logos" src="images/fundacaoTelefonica.png"/>](http://fundacaotelefonica.org.br/)
+[<img class="partners-logos" src="images/AliançaEmpreendedora.png"/>](https://aliancaempreendedora.org.br/)
+[<img class="partners-logos" src="images/Mozilla.jpeg"/>](https://www.mozilla.org)
+[<img class="partners-logos" src="images/venus360.png"/>](http://venus360.com.br/)
+[<img class="partners-logos" src="images/minhaCampinas.jpeg"/>](https://www.minhacampinas.org.br/)
 
 ## Localização
 
 Rua Benjamin Moloisi, 669 - Conj. Hab. Parque Itajai, Campinas - SP, 13058-020
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-47.193448841571815%2C-22.959894915812015%2C-47.19139426946641%2C-22.95839084833951&amp;layer=mapnik&amp;marker=-22.959142884166557%2C-47.192421555519104" style="border: 1px solid black"></iframe><br/>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-47.193448841571815%2C-22.959894915812015%2C-47.19139426946641%2C-22.95839084833951&amp;layer=mapnik&amp;marker=-22.959142884166557%2C-47.192421555519104" style="border: 1px solid black"></iframe>
+
 <small>
     <a href="https://www.openstreetmap.org/?mlat=-22.95914&amp;mlon=-47.19242#map=19/-22.95914/-47.19242" target="_blank">Clique para abrir em outra aba</a>
 </small>
@@ -42,7 +43,7 @@ Rua Benjamin Moloisi, 669 - Conj. Hab. Parque Itajai, Campinas - SP, 13058-020
 
 ## Redes sociais
 
-[![Mastodon](images/mastodon.svg#social-media)](https://masto.donte.com.br/@casahacker)
-[![Twitter](images/twitter.svg#social-media)](https://twitter.com/casahacker)
-[![Instagram](images/instagram.svg#social-media)](https://www.instagram.com/casahacker/)
-[![Facebook](images/facebook.svg#social-media)](https://www.facebook.com/casahackercampinas)
+[<img class="social-media" src="images/mastodon.svg"/>](https://masto.donte.com.br/@casahacker)
+[<img class="social-media" src="images/twitter.svg"/>](https://twitter.com/casahacker)
+[<img class="social-media" src="images/instagram.svg"/>](https://www.instagram.com/casahacker/)
+[<img class="social-media" src="images/facebook.svg"/>](https://www.facebook.com/casahackercampinas)
