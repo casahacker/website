@@ -80,7 +80,19 @@ html, body {
 /* //Menu */
 
 /* Main */
+.layout__main {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+}
 
+.content .partners-logos {
+	width: 150px;
+}
+
+.content .social-media {
+	width: 25px;
+}
 /* //Main */
 
 /* Footer */

@@ -40,10 +40,3 @@ Rua Benjamin Moloisi, 669 - Conj. Hab. Parque Itajai, Campinas - SP, 13058-020
 </small>
 
 [Como chegar](/about/#como-chegar)
-
-## Redes sociais
-
-[<img class="social-media" src="images/mastodon.svg"/>](https://masto.donte.com.br/@casahacker)
-[<img class="social-media" src="images/twitter.svg"/>](https://twitter.com/casahacker)
-[<img class="social-media" src="images/instagram.svg"/>](https://www.instagram.com/casahacker/)
-[<img class="social-media" src="images/facebook.svg"/>](https://www.facebook.com/casahackercampinas)

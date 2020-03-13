@@ -42,7 +42,8 @@
 &lt;h2 id=&#34;sobre-nosso-site&#34;&gt;Sobre nosso site&lt;/h2&gt;
 &lt;p&gt;Nosso site respeita a privacidade dos visitantes (leia mais na politica de privacidade) e é feito utilizando tecnologias livres: utilizamos o &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt; como gerador de sites estaticos, nosso tema é baseado no &lt;a href=&#34;https://github.com/frjo/hugo-theme-zen&#34;&gt;zen&lt;/a&gt; e o &lt;a href=&#34;https://matomo.org/&#34;&gt;matomo&lt;/a&gt; como analitics.&lt;/p&gt;
 &lt;p&gt;Você pode optar por não ser monitorado pela nossa instancia do matomo: Basta habilitar o sinal de &amp;ldquo;Não rastreado&amp;rdquo; em seu navegador. Ou clickar no botão abaixo:&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;iframe style=&#34;border: 0; height: 200px; width: 600px;&#34;
+src=&#34;https://stats.casahacker.duckdns.org/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=pt-br&#34;&gt;&lt;/iframe&gt;
 &lt;h3 id=&#34;acesse-via-serviço-cebola-onion&#34;&gt;Acesse via serviço cebola (.onion)&lt;/h3&gt;
 &lt;p&gt;Navegue no nosso site anonimamente com o Tor Browser, vá no site do projeto Tor: &lt;a href=&#34;https://www.torproject.org/pt-BR/&#34;&gt;torproject.org&lt;/a&gt; e siga as instrucoes para baixar o Tor Browser.&lt;/p&gt;
 &lt;p&gt;Com o Tor Browser aberto, acesse nosso site com o link abaixo:&lt;/p&gt;
