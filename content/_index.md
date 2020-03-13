@@ -12,7 +12,10 @@ A Casa Hacker é um espaço hacker sem fins lucrativos e 100% dedicada a colocar
 
 Somos de base comunitária e de raízes periféricas, apaixonados por tecnologia, ciência, sociedade e cultura, e acreditamos que na medida que a tecnologia em que é usada para promover a aprendizagem e justiça, ela também é usada de maneiras que amplificam as desigualdades. Muitas pessoas, especialmente aquelas que historicamente foram excluídas ou marginalizadas, não podem acessar, construir, beneficiar ou influenciar plataformas digitais.
 
-## Apoiadores, amigos e parceiros
+<!-- Parceiros -->
+<div class="layout_partners">
+
+<h2>Apoiadores, amigos e parceiros</h2>
 
 [<img class="partners-logos" src="images/prefeituraCPS.png"/>](http://www.campinas.sp.gov.br/governo/cultura/)
 [<img class="partners-logos" src="images/institutoVozAtiva.png"/>](https://www.facebook.com/institutovozativa/)
@@ -29,14 +32,19 @@ Somos de base comunitária e de raízes periféricas, apaixonados por tecnologia
 [<img class="partners-logos" src="images/venus360.png"/>](http://venus360.com.br/)
 [<img class="partners-logos" src="images/minhaCampinas.jpeg"/>](https://www.minhacampinas.org.br/)
 
-## Localização
+</div>
 
-Rua Benjamin Moloisi, 669 - Conj. Hab. Parque Itajai, Campinas - SP, 13058-020
+<!-- Localização -->
+<div class="layout_location">
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-47.193448841571815%2C-22.959894915812015%2C-47.19139426946641%2C-22.95839084833951&amp;layer=mapnik&amp;marker=-22.959142884166557%2C-47.192421555519104" style="border: 1px solid black"></iframe>
+<h2>Localização</h2>
 
-<small>
-    <a href="https://www.openstreetmap.org/?mlat=-22.95914&amp;mlon=-47.19242#map=19/-22.95914/-47.19242" target="_blank">Clique para abrir em outra aba</a>
-</small>
+<p>Rua Benjamin Moloisi, 669 - Conj. Hab. Parque Itajai, Campinas - SP, 13058-020</p>
 
-[Como chegar](/about/#como-chegar)
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-47.193448841571815%2C-22.959894915812015%2C-47.19139426946641%2C-22.95839084833951&amp;layer=mapnik&amp;marker=-22.959142884166557%2C-47.192421555519104"></iframe>
+
+<a href="https://www.openstreetmap.org/?mlat=-22.95914&amp;mlon=-47.19242#map=19/-22.95914/-47.19242" target="_blank">Clique para abrir em outra aba</a>
+
+<a href="/about/#como-chegar">Como chegar</a>
+
+</div>
