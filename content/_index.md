@@ -4,13 +4,17 @@ date: 2019-10-13T19:30:16-03:00
 draft: false
 ---
 
-[English version](en/): on the top right corner there's a button to switch to the english version, if you are in your mobile click on the menu or click [here](en/)
+<div class="layout_description">
+
+[English version](en/): On the top right corner there's a button to switch to the english version, if you are in your mobile click on the menu or click [here](en/)
 
 [Acesse via serviço cebola (.onion)](about/#acesse-via-serviço-cebola-onion)
 
 A Casa Hacker é um espaço hacker sem fins lucrativos e 100% dedicada a colocar comunidades locais no controle de suas experiências digitais e a moldarem o futuro da tecnologia da informação e comunicação para o bem público. Nós colocamos nossos princípios acima dos lucros e acreditamos que as tecnologias da nossa era são recursos públicos a serem explorados e construídos por todos, não uma mercadoria a ser vendida. Em um coletivo experiente, multidisciplinar e líder em tecnologia e sociedade desenvolvemos iniciativas de impacto social que empodera pessoas e transforma comunidades.
 
 Somos de base comunitária e de raízes periféricas, apaixonados por tecnologia, ciência, sociedade e cultura, e acreditamos que na medida que a tecnologia em que é usada para promover a aprendizagem e justiça, ela também é usada de maneiras que amplificam as desigualdades. Muitas pessoas, especialmente aquelas que historicamente foram excluídas ou marginalizadas, não podem acessar, construir, beneficiar ou influenciar plataformas digitais.
+
+</div>
 
 <!-- Parceiros -->
 <div class="layout_partners">
