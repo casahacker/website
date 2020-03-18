@@ -4,6 +4,7 @@ date: 2019-10-13T19:30:16-03:00
 draft: false
 ---
 
+<!-- Descrição -->
 <div class="layout_description">
 
 [English version](en/): On the top right corner there's a button to switch to the english version, if you are in your mobile click on the menu or click [here](en/)
@@ -15,14 +16,15 @@ A Casa Hacker é um espaço hacker sem fins lucrativos e 100% dedicada a colocar
 Somos de base comunitária e de raízes periféricas, apaixonados por tecnologia, ciência, sociedade e cultura, e acreditamos que na medida que a tecnologia em que é usada para promover a aprendizagem e justiça, ela também é usada de maneiras que amplificam as desigualdades. Muitas pessoas, especialmente aquelas que historicamente foram excluídas ou marginalizadas, não podem acessar, construir, beneficiar ou influenciar plataformas digitais.
 
 </div>
+<!-- //Descrição -->
 
 <!-- Parceiros -->
 <div class="layout_partners">
 
-<div class="title">
-<p>Apoiadores,</p>
-<p>amigos</p>
-<p>e parceiros</p>
+<div class="title-partners">
+    <p>Apoiadores,</p>
+    <p>amigos</p>
+    <p>e parceiros</p>
 </div>
 
 <div class="partners-images">
@@ -33,8 +35,8 @@ Somos de base comunitária e de raízes periféricas, apaixonados por tecnologia
 [<img src="images/fundacaoFEAC.png"/>](https://www.feac.org.br/)
 [<img src="images/99Designs.png"/>](https://en.99designs.com.br/)
 [<img src="images/Stickermule.png"/>](https://www.stickermule.com/)
-[<img src="images/Stickermule.png"/>](https://probono.org.br/)
-[<img src="images/Stickermule.png"/>](http://www.klalaw.com.br/)
+[<img src="images/InstitutoProBono.png"/>](https://probono.org.br/)
+[<img src="images/klaAdvogados.png"/>](http://www.klalaw.com.br/)
 
 </div>
 
@@ -57,15 +59,15 @@ Somos de base comunitária e de raízes periféricas, apaixonados por tecnologia
 <!-- Localização -->
 <div class="layout_location">
 
-<h2>Localização</h2>
+<p class="title-location">Localização</p>
 
-<p>Rua Benjamin Moloisi, 669 - Conj. Hab. Parque Itajai, Campinas - SP, 13058-020</p>
+<p class="address">Rua Benjamin Moloisi, 669 - Conj. Hab. Parque Itajai, Campinas - SP, 13058-020</p>
 
-<iframe class="map" width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-47.193448841571815%2C-22.959894915812015%2C-47.19139426946641%2C-22.95839084833951&amp;layer=mapnik&amp;marker=-22.959142884166557%2C-47.192421555519104"></iframe>
+<iframe width="600" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-47.193448841571815%2C-22.959894915812015%2C-47.19139426946641%2C-22.95839084833951&amp;layer=mapnik&amp;marker=-22.959142884166557%2C-47.192421555519104"></iframe>
 
 <a href="https://www.openstreetmap.org/?mlat=-22.95914&amp;mlon=-47.19242#map=19/-22.95914/-47.19242" target="_blank">Clique para abrir em outra aba</a>
 
-<a href="/about/#como-chegar">Como chegar</a>
+[Como chegar](/about/#como-chegar)
 
 </div>
 <!-- //Localização -->
