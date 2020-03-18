@@ -19,24 +19,40 @@ Somos de base comunitária e de raízes periféricas, apaixonados por tecnologia
 <!-- Parceiros -->
 <div class="layout_partners">
 
-<h2>Apoiadores, amigos e parceiros</h2>
+<div class="title">
+<p>Apoiadores,</p>
+<p>amigos</p>
+<p>e parceiros</p>
+</div>
 
-[<img class="partners-logos" src="images/prefeituraCPS.png"/>](http://www.campinas.sp.gov.br/governo/cultura/)
-[<img class="partners-logos" src="images/institutoVozAtiva.png"/>](https://www.facebook.com/institutovozativa/)
-[<img class="partners-logos" src="images/fundacaoFEAC.png"/>](https://www.feac.org.br/)
-[<img class="partners-logos" src="images/99Designs.png"/>](https://en.99designs.com.br/)
-[<img class="partners-logos" src="images/Stickermule.png"/>](https://www.stickermule.com/)
-[<img class="partners-logos" src="images/Stickermule.png"/>](https://probono.org.br/)
-[<img class="partners-logos" src="images/Stickermule.png"/>](http://www.klalaw.com.br/)
-[<img class="partners-logos" src="images/TacticalTech.png"/>](https://tacticaltech.org/)
-[<img class="partners-logos" src="images/BigFieldCompany.png"/>](https://www.youtube.com/channel/UCtaHspH0UhD-0Ro3egFyhbQ)
-[<img class="partners-logos" src="images/fundacaoTelefonica.png"/>](http://fundacaotelefonica.org.br/)
-[<img class="partners-logos" src="images/AliançaEmpreendedora.png"/>](https://aliancaempreendedora.org.br/)
-[<img class="partners-logos" src="images/Mozilla.jpeg"/>](https://www.mozilla.org)
-[<img class="partners-logos" src="images/venus360.png"/>](http://venus360.com.br/)
-[<img class="partners-logos" src="images/minhaCampinas.jpeg"/>](https://www.minhacampinas.org.br/)
+<div class="partners-images">
+<div class="item">
+
+[<img src="images/prefeituraCPS.png"/>](http://www.campinas.sp.gov.br/governo/cultura/)
+[<img src="images/institutoVozAtiva.png"/>](https://www.facebook.com/institutovozativa/)
+[<img src="images/fundacaoFEAC.png"/>](https://www.feac.org.br/)
+[<img src="images/99Designs.png"/>](https://en.99designs.com.br/)
+[<img src="images/Stickermule.png"/>](https://www.stickermule.com/)
+[<img src="images/Stickermule.png"/>](https://probono.org.br/)
+[<img src="images/Stickermule.png"/>](http://www.klalaw.com.br/)
 
 </div>
+
+<div class="item">
+
+[<img src="images/TacticalTech.png"/>](https://tacticaltech.org/)
+[<img src="images/BigFieldCompany.png"/>](https://www.youtube.com/channel/UCtaHspH0UhD-0Ro3egFyhbQ)
+[<img src="images/fundacaoTelefonica.png"/>](http://fundacaotelefonica.org.br/)
+[<img src="images/AliançaEmpreendedora.png"/>](https://aliancaempreendedora.org.br/)
+[<img src="images/Mozilla.jpeg"/>](https://www.mozilla.org)
+[<img src="images/venus360.png"/>](http://venus360.com.br/)
+[<img src="images/minhaCampinas.jpeg"/>](https://www.minhacampinas.org.br/)
+
+</div>
+
+</div>
+</div>
+<!-- //Parceiros -->
 
 <!-- Localização -->
 <div class="layout_location">
@@ -45,10 +61,11 @@ Somos de base comunitária e de raízes periféricas, apaixonados por tecnologia
 
 <p>Rua Benjamin Moloisi, 669 - Conj. Hab. Parque Itajai, Campinas - SP, 13058-020</p>
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-47.193448841571815%2C-22.959894915812015%2C-47.19139426946641%2C-22.95839084833951&amp;layer=mapnik&amp;marker=-22.959142884166557%2C-47.192421555519104"></iframe>
+<iframe class="map" width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-47.193448841571815%2C-22.959894915812015%2C-47.19139426946641%2C-22.95839084833951&amp;layer=mapnik&amp;marker=-22.959142884166557%2C-47.192421555519104"></iframe>
 
 <a href="https://www.openstreetmap.org/?mlat=-22.95914&amp;mlon=-47.19242#map=19/-22.95914/-47.19242" target="_blank">Clique para abrir em outra aba</a>
 
 <a href="/about/#como-chegar">Como chegar</a>
 
 </div>
+<!-- //Localização -->
