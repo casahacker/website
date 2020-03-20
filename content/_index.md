@@ -21,7 +21,7 @@ Somos de base comunitária e de raízes periféricas, apaixonados por tecnologia
 <!-- Parceiros -->
 <div class="layout_partners">
 
-<div class="title-partners">
+<div class="text-partners">
     <p>Apoiadores,</p>
     <p>amigos</p>
     <p>e parceiros</p>
@@ -59,15 +59,19 @@ Somos de base comunitária e de raízes periféricas, apaixonados por tecnologia
 <!-- Localização -->
 <div class="layout_location">
 
+<iframe width="550" height="320" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-47.193448841571815%2C-22.959894915812015%2C-47.19139426946641%2C-22.95839084833951&amp;layer=mapnik&amp;marker=-22.959142884166557%2C-47.192421555519104"></iframe>
+
+<div class="text-location">
+
 <p class="title-location">Localização</p>
 
 <p class="address">Rua Benjamin Moloisi, 669 - Conj. Hab. Parque Itajai, Campinas - SP, 13058-020</p>
 
-<iframe width="600" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-47.193448841571815%2C-22.959894915812015%2C-47.19139426946641%2C-22.95839084833951&amp;layer=mapnik&amp;marker=-22.959142884166557%2C-47.192421555519104"></iframe>
-
 <a href="https://www.openstreetmap.org/?mlat=-22.95914&amp;mlon=-47.19242#map=19/-22.95914/-47.19242" target="_blank">Clique para abrir em outra aba</a>
 
-[Como chegar](/about/#como-chegar)
+<a href="/about/#como-chegar">Como chegar</a>
+
+</div>
 
 </div>
 <!-- //Localização -->
