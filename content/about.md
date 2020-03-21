@@ -7,7 +7,7 @@ draft: false
 <!-- Como chegar -->
 <div class="layout_arrive">
 
-## Como chegar?
+<p class="title">Como chegar?</p>
 
 TODO
 
@@ -17,9 +17,9 @@ TODO
 <!-- Missão -->
 <div class="layout_mission">
 
-## Missão
-
 TODO
+
+<p class="title">Missão</p>
 
 </div>
 <!-- //Missão -->
@@ -27,7 +27,13 @@ TODO
 <!-- Sobre -->
 <div class="layout_about">
 
-## Sobre nosso site
+<div class="box-title">
+    <p class="title">Sobre</p>
+    <p class="title">nosso</p>
+    <p class="title">site</p>
+</div>
+
+<div class="text-about">
 
 Nosso site respeita a privacidade dos visitantes (leia mais sobre nossa [Política de Privacidade](/transparencia/politica-de-privacidade)) e é feito utilizando tecnologias livres: utilizamos o [Hugo](https://gohugo.io/) como gerador de sites estáticos, nosso tema é baseado no [zen](https://github.com/frjo/hugo-theme-zen) e o [matomo](https://matomo.org/) como analitics.
 
@@ -42,6 +48,8 @@ Navegue no nosso site anonimamente com o Tor Browser, vá no site do projeto [To
 Com o Tor Browser aberto, acesse nosso site utilizando o link abaixo:
 
 [casahackrd5564weeiw7biseh6oms5jatpfa5klfoobeworbksx4z2qd.onion](http://casahackrd5564weeiw7biseh6oms5jatpfa5klfoobeworbksx4z2qd.onion)
+
+</div>
 
 </div>
 <!-- //Sobre -->
