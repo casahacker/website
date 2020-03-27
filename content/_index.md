@@ -21,7 +21,7 @@ Somos de base comunitária e de raízes periféricas, apaixonados por tecnologia
 <!-- Parceiros -->
 <div class="layout_partners">
 
-<div class="text-partners">
+<div class="title-partners">
     <p>Apoiadores,</p>
     <p>amigos</p>
     <p>e parceiros</p>
