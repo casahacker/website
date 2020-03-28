@@ -5,7 +5,6 @@
     .main-menu,
     .header__region {
       display: block; } }
-
 .mobile-nav {
   font-family: Futura, "Century Gothic", AppleGothic, sans-serif;
   position: absolute;
