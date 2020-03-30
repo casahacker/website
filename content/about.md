@@ -7,9 +7,16 @@ draft: false
 <!-- Como chegar -->
 <div class="layout_arrive">
 
-<p class="title">Como chegar?</p>
+<div class="box-title">
+    <p class="title">Como</p>
+    <p class="title">chegar?</p>
+</div>
+
+<div class="text-about">
 
 TODO
+
+</div>
 
 </div>
 <!-- //Como chegar -->
@@ -17,9 +24,15 @@ TODO
 <!-- Missão -->
 <div class="layout_mission">
 
+<div class="text-about">
+
 TODO
 
-<p class="title">Missão</p>
+</div>
+
+<div class="box-title">
+    <p class="title">Missão</p>
+</div>
 
 </div>
 <!-- //Missão -->
