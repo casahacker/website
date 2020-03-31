@@ -8,8 +8,8 @@ draft: false
 <div class="layout_arrive">
 
 <div class="box-title">
-    <p class="title">Como</p>
-    <p class="title">chegar?</p>
+    <p>Como</p>
+    <p>chegar?</p>
 </div>
 
 <div class="text-about">
@@ -31,7 +31,7 @@ TODO
 </div>
 
 <div class="box-title">
-    <p class="title">Missão</p>
+    <p>Missão</p>
 </div>
 
 </div>
@@ -41,9 +41,9 @@ TODO
 <div class="layout_about">
 
 <div class="box-title">
-    <p class="title">Sobre</p>
-    <p class="title">nosso</p>
-    <p class="title">site</p>
+    <p>Sobre</p>
+    <p>nosso</p>
+    <p>site</p>
 </div>
 
 <div class="text-about">

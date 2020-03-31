@@ -188,5 +188,3 @@ Estas diretrizes foram adaptadas com modificações das [Diretrizes para partici
 ## Modificações destas diretrizes
 
 A Casa Hacker pode alterar as diretrizes ao longo do tempo e também pode variar os procedimentos que estabelece, quando apropriado, em um caso particular. A sua concordância em cumprir com estas diretrizes será considerada um acordo sobre quaisquer alterações. Caso a Casa Hacker modifique as diretrizes, a versão atualizada pode ser encontrada em https://casahacker.org.
-
-
